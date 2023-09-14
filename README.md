@@ -1,4 +1,4 @@
-# 🗿Henry
+# 🗿 Henry 🗿
 
 **`Project Manager in Communications, studying IT`**
 
