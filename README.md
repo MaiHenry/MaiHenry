@@ -1,6 +1,6 @@
 # 🗿 Henry 🗿
 
-**`Project Manager in Communications, studying IT`**
+**`Project Manager in Communications @ IT:Programming student`**
 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
