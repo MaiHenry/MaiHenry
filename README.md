@@ -42,10 +42,6 @@ Project Manager in Communications @ Bachelor in IT: Programming
   <h2 align="center">Results</h2>
 <div align="center">
   
-  ****`Average GPA: A`****
-  <br>
-
-  
 **`Semester 3: 2023 Autumn`**<br>
 <br>**PGR209**: Backendprogramming: (Grade) Results: To be announced..
 <br>**PG3302**: Software Design: (Grade) To be announced..
