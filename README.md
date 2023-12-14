@@ -28,7 +28,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
   <a href="https://www.linkedin.com/in/henry-mai-060517136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
-  <h1 align="center">Currently exploring</h1>
+  <h2 align="center">Currently exploring</h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine Learning-green"> 
@@ -39,8 +39,12 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <hr>
-  <h1 align="center">Results</h1>
+  <h2 align="center">Results</h2>
 <div align="center">
+  
+  ****`Average GPA: A`****
+  <br>
+
   
 **`Semester 3: 2023 Autumn`**<br>
 <br>**PGR209**: Backendprogrammering: (Graded) Results: To be announced..
