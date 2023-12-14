@@ -20,8 +20,9 @@ Project Manager in Communications @ Bachelor in IT: Programming
  <img  width="500" height="200" src="https://github.com/MaiHenry/Java_Training/blob/main/Profile-giphy.gif">
 </p>
 
-<p align="center">Fulltime project manager pursuing a fulltime Bachelor in Information Technology: Programming. Started exploring the field of machine learning and hope to contribute to that field as well. 
-</p>
+<div align="center">
+  <p align="center" style="margin-top: 100px;">Full-time project manager pursuing a full-time Bachelor in Information Technology: Programming. Started exploring the field of machine learning and hope to contribute to that field as well.</p>
+</div>
 
 <p align="center"><a href="https://twitter.com/terabyte_17">
   <a href="https://www.linkedin.com/in/henry-mai-060517136/">
