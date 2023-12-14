@@ -52,7 +52,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
 <br>**PG6301**: Webdevelopment and API-design: Grade A
 
 **`Semester 2: 2023 Spring`**<br>
-<br>**PG4200**: Algorithm and Data Structures - Grade A
+<br>**PG4200**: Algorithm and Data Structures: Grade A
 <br>**PGR112**: Object-Oriented Programming: (IG/G) Godkjent
 <br>**TK2100**: Cybersecurity: (IG/G) Godkjent
 
