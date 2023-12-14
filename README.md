@@ -43,7 +43,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
 <div align="center">
   
 **`Semester 3: 2023 Autumn`**<br>
-<br>**PGR209**: Backendprogramming: (Grade) Results: To be announced..
+<br>**PGR209**: Backendprogramming: (Grade) To be announced..
 <br>**PG3302**: Software Design: (Grade) To be announced..
 <br>**PG6301**: Webdevelopment and API-design: (Grade) **A**
 
