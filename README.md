@@ -47,18 +47,18 @@ Project Manager in Communications @ Bachelor in IT: Programming
 
   
 **`Semester 3: 2023 Autumn`**<br>
-<br>**PGR209**: Backendprogrammering: (Graded) Results: To be announced..
+<br>**PGR209**: Backendprogramming: (Graded) Results: To be announced..
 <br>**PG3302**: Software Design: (Graded) Results: To be announced..
-<br>**PG6301**: Webutvikling og API-design: (Graded) Results: A
+<br>**PG6301**: Webdevelopment and API-design: (Graded) Results: A
 
 **`Semester 2: 2023 Spring`**<br>
-<br>**PG4200**: Algoritmer og datastrukturer (Graded) Results: A
-<br>**PGR112**: Objektorientert programmering (IG/G) Results: Godkjent
-<br>**TK2100**: Informasjonssikkerhet (IG/G) Results: Godkjent
+<br>**PG4200**: Algorithm and Data Structures (Graded) Results: A
+<br>**PGR112**: Object-Oriented Programming (IG/G) Results: Godkjent
+<br>**TK2100**: Cybersecurity (IG/G) Results: Godkjent
 
 **`Semester 1: 2022 Autumn`**<br>
-  <br>**PGR102**: Introduksjon til programmering (IG/G) Results: Godkjent
-  <br>**PRO105**: Kreativt webprosjekt (IG/G) Results: Godkjent
-  <br>**TK1104**: Digital teknologi (IG/G) Results: Godkjent
-  <br>**DB1102**: Databaser (IG/G) Results: Godkjent
+  <br>**PGR102**: Introduction to Programming (IG/G) Results: Godkjent
+  <br>**PRO105**: Creative Webproject (IG/G) Results: Godkjent
+  <br>**TK1104**: Digital Technology (IG/G) Results: Godkjent
+  <br>**DB1102**: Databases (IG/G) Results: Godkjent
 </div>
