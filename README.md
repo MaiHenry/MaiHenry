@@ -28,7 +28,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
   <a href="https://www.linkedin.com/in/henry-mai-060517136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
-  <h2 align="center">Currently learning</h2>
+  <h2 align="center">Interested in</h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine Learning-green"> 
