@@ -21,14 +21,14 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <div align="center">
-  <p align="center" style="margin-top: 100px;">Full-time project manager pursuing a full-time Bachelor in Information Technology: Programming. Started exploring the field of machine learning and hope to contribute to that field as well.</p>
+  <p align="center" style="margin-top: 100px;">Full-time project manager pursuing a full-time Bachelor in Information Technology: Programming at Kristiania University College. Started exploring the field of machine learning and hope to contribute to that field as well.</p>
 </div>
 
 <p align="center"><a href="https://twitter.com/terabyte_17">
   <a href="https://www.linkedin.com/in/henry-mai-060517136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
-  <h2 align="center">Currently exploring</h2>
+  <h2 align="center">Currently learning</h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine Learning-green"> 
