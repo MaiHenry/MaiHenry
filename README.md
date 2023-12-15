@@ -21,7 +21,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <div align="center">
-  <p align="center" style="margin-top: 100px;">Full-time project manager pursuing a full-time Bachelor in Information Technology: Programming at Kristiania University College. Started exploring the field of machine learning and hope to contribute to that field as well.</p>
+  <p align="center" style="margin-top: 100px;">Full-time project manager pursuing a full-time Bachelor in Information Technology: Programming at Kristiania University College. Started exploring the world of machine learning and hope to contribute to that field as well.</p>
 </div>
 
 <p align="center"><a href="https://twitter.com/terabyte_17">
