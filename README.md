@@ -39,14 +39,18 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <hr>
-  <h2 align="center">Results</h2>
+  <h2 align="center">Results - Graded Course Exams</h2>
 <div align="center">
   
 **`Current GPA: 4.0 / A `**<br>
-**`Graded Course Exams`**<br>
+
+**`2nd Year`**<br>
 <br>**PGR209**: Backendprogramming (Autumn 2023), grade: To be announced..
 <br>**PG3302**: Software Design (Autumn 2023), grade: To be announced..
-<br>**PG6301**: Webdevelopment and API-design (Autumn 2023), grade: **A**
-<br>**PG4200**: Algorithm and Data Structures(Spring 2023), grade: **A**
+<br>**PG6301**: Webdevelopment and API-design, grade: **A**
+
+**`1st Year`**<br>
+<br>**PG4200**: Algorithm and Data Structures, grade: **A**
+
 
 </div>
