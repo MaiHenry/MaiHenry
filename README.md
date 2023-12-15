@@ -45,9 +45,9 @@ Project Manager in Communications @ Bachelor in IT: Programming
 **`Current GPA: 4.0 / A `**<br>
 
 **`Graded Course Exams`**<br>
-<br>**PGR209**: Backendprogramming: (Grade) To be announced..
-<br>**PG3302**: Software Design: (Grade) To be announced..
-<br>**PG6301**: Webdevelopment and API-design: (Grade) **A**
-<br>**PG4200**: Algorithm and Data Structures: (Grade) **A**
+<br>**PGR209**: Backendprogramming, grade: To be announced..
+<br>**PG3302**: Software Design, grade: To be announced..
+<br>**PG6301**: Webdevelopment and API-design, grade: **A**
+<br>**PG4200**: Algorithm and Data Structures, grade: **A**
 
 </div>
