@@ -39,18 +39,18 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <hr>
-  <h2 align="center">Results - Graded Exams</h2>
+  <h2 align="center">Results - Exam Scores</h2>
 <div align="center">
   
 **`Current GPA: 4.0 / A `**<br>
 
 **`2nd Year`**<br>
-<br>**PGR209**: Backendprogramming (Autumn 2023), grade: To be announced..
-<br>**PG3302**: Software Design (Autumn 2023), grade: To be announced..
-<br>**PG6301**: Web development and API-design, grade: **A**
+<br>**PGR209**: Backendprogramming, exam score: To be announced..
+<br>**PG3302**: Software Design, exam score: To be announced..
+<br>**PG6301**: <a href="https://github.com/MaiHenry/Web-development-and-Api-Design/" height=25> Web Development and Api Design</a>, exam score: **A**
 
 **`1st Year`**<br>
-<br>**PG4200**: Algorithm and Data Structures, grade: **A**
+<br>**PG4200**: Algorithm and Data Structures, exam score: **A**
 
 
 </div>
