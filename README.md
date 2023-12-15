@@ -17,7 +17,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <p align="center">
- <img  width="500" height="200" src="https://github.com/MaiHenry/Java_Training/blob/main/Profile-giphy.gif">
+ <img  width="500" height="200" src="https://github.com/MaiHenry/MaiHenry/blob/main/profile-gifs/Profile-giphy.gif">
 </p>
 
 <div align="center">
