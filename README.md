@@ -45,12 +45,12 @@ Project Manager in Communications @ Bachelor in IT: Programming
 **`Current GPA: 4.0 / A `**<br>
 
 **`2nd Year`**<br>
-<br>**PGR209**: Backendprogramming, exam score: To be announced..
-<br>**PG3302**: Software Design, exam score: **B**
-<br>**PG6301**: <a href="https://github.com/MaiHenry/Web-development-and-Api-Design/" height=25> Web Development and Api Design</a>, exam score: **A**
+<br>**PGR209**: Backendprogramming, Group exam score: To be announced..
+<br>**PG3302**: Software Design, Group exam score: **B**
+<br>**PG6301**: <a href="https://github.com/MaiHenry/Web-development-and-Api-Design/" height=25> Web Development and Api Design</a>, Individual exam score: **A**
 
 **`1st Year`**<br>
-<br>**PG4200**: Algorithm and Data Structures, exam score: **A**
+<br>**PG4200**: Algorithm and Data Structures, Individual exam score: **A**
 
 
 </div>
