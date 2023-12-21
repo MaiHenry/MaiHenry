@@ -39,7 +39,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <hr>
-  <h2 align="center">Results - Exam Scores</h2>
+  <h2 align="center">Results</h2>
 <div align="center">
   
 **`Current GPA: 3.67 / A average`**<br>
