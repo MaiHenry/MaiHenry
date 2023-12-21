@@ -42,7 +42,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
   <h2 align="center">Results - Exam Scores</h2>
 <div align="center">
   
-**`Current GPA: 4.0 / A `**<br>
+**`Current GPA: 3.67 / A average`**<br>
 
 **`2nd Year`**<br>
 <br>**PGR209**: Backendprogramming, Group exam score: To be announced..
