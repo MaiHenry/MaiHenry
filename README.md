@@ -39,10 +39,8 @@ Project Manager in Communications @ Bachelor in IT: Programming
 </p>
 
 <hr>
-  <h2 align="center">Results</h2>
+  <h2 align="center">Projects</h2>
 <div align="center">
-  
-**`Current GPA (ECTS): 4.67 / A average`**<br>
 
 **`Highlighted projects`**<br>
 <br>**PG6301**: <a href="https://github.com/MaiHenry/Web-development-and-Api-Design/" height=25> Web Development and Api Design</a>
