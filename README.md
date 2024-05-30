@@ -42,7 +42,7 @@ Project Manager in Communications @ Bachelor in IT: Programming
   <h2 align="center">Projects</h2>
 <div align="center">
 
-**`Highlighted projects`**<br>
+**`Highlight`**<br>
 <br>**PG6301**: <a href="https://github.com/MaiHenry/Web-development-and-Api-Design/" height=25> Web Development and Api Design</a>
 <br>**PGR209**: <a href="https://github.com/MaiHenry/PGR209-backendprogramming" height=25> Backendprogramming</a>
 
